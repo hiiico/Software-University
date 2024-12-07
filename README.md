@@ -1,5 +1,3 @@
-Java Full Stack Developer
-
 Period
 
 September, 2023 - December, 2025
